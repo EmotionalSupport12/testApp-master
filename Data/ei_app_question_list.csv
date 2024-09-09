@@ -1,0 +1,19 @@
+﻿question_id,company_id,tracker_id,question,question_category,answer_type,min_value,max_value,is_active
+21001,ABC_Co,Stand-Up,Please state how you feel at Present.,Emotional State,Scale,1,5,TRUE
+21002,ABC_Co,Stand-Up,How would you say your emotional responses were perceived by team members at the standup?,Self Awareness,Scale,1,5,TRUE
+21003,ABC_Co,Stand-Up,How would you rate your ability to manage your emotions at the stand-up?,Self Regulation,Scale,1,5,TRUE
+21004,ABC_Co,Stand-Up,How would you rate your emotional ability to understand the key discussion points of the meeting?,Social Awareness,Scale,1,5,TRUE
+21005,ABC_Co,Stand-Up,How well do you think you understood and agreed with others' opinions at the stand-up?,Empathy,Scale,1,5,TRUE
+21006,ABC_Co,Stand-Up,What is your present level of motivation?,Motivation,Scale,1,5,TRUE
+24007,ABC_Co,Review,Please state how you feel at Present.,Emotional State,Scale,1,5,TRUE
+24008,ABC_Co,Review,How would you say your emotional responses were perceived by team members at the standup?,Self Awareness,Scale,1,5,TRUE
+24009,ABC_Co,Review,How would you rate your ability to manage your emotions at the stand-up?,Self Regulation,Scale,1,5,TRUE
+24010,ABC_Co,Review,How would you rate your emotional ability to understand the key discussion points of the meeting?,Social Awareness,Scale,1,5,TRUE
+24011,ABC_Co,Review,How well do you think you understood and agreed with others' opinions at the stand-up?,Empathy,Scale,1,5,TRUE
+24012,ABC_Co,Review,What is your present level of motivation?,Motivation,Scale,1,5,TRUE
+27013,ABC_Co,Retro,Please state how you feel at Present.,Emotional State,Scale,1,5,TRUE
+27014,ABC_Co,Retro,How would you say your emotional responses were perceived by team members at the standup?,Self Awareness,Scale,1,5,TRUE
+27015,ABC_Co,Retro,How would you rate your ability to manage your emotions at the stand-up?,Self Regulation,Scale,1,5,TRUE
+27016,ABC_Co,Retro,How would you rate your emotional ability to understand the key discussion points of the meeting?,Social Awareness,Scale,1,5,TRUE
+27017,ABC_Co,Retro,How well do you think you understood and agreed with others' opinions at the stand-up?,Empathy,Scale,1,5,TRUE
+27018,ABC_Co,Retro,What is your present level of motivation?,Motivation,Scale,1,5,TRUE

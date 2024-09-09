@@ -1,0 +1,49 @@
+﻿company_id,sprint_name,user_id,user_name,tracker_id,question_id,question_category,value,submitted_on
+ABC_Co,Sprint 1,10009,mayag,Stand-Up,20001,Emotional State,5,22/08/2024 19:34
+ABC_Co,Sprint 1,10009,mayag,Stand-Up,20002,Self Awareness,3,22/08/2024 19:34
+ABC_Co,Sprint 1,10009,mayag,Stand-Up,20003,Self Regulation,4,22/08/2024 19:34
+ABC_Co,Sprint 1,10009,mayag,Stand-Up,20004,Social Awareness,3,22/08/2024 19:34
+ABC_Co,Sprint 1,10009,mayag,Stand-Up,20005,Empathy,5,22/08/2024 19:34
+ABC_Co,Sprint 1,10009,mayag,Stand-Up,20006,Motivation,2,22/08/2024 19:34
+ABC_Co,Sprint 1,10009,mayag,Review,20007,Emotional State,2,22/08/2024 19:34
+ABC_Co,Sprint 1,10009,mayag,Review,20008,Self Awareness,4,22/08/2024 19:34
+ABC_Co,Sprint 1,10009,mayag,Review,20009,Self Regulation,4,22/08/2024 19:34
+ABC_Co,Sprint 1,10009,mayag,Review,20010,Social Awareness,3,22/08/2024 19:34
+ABC_Co,Sprint 1,10009,mayag,Review,20011,Empathy,5,22/08/2024 19:34
+ABC_Co,Sprint 1,10009,mayag,Review,20012,Motivation,3,22/08/2024 19:34
+ABC_Co,Sprint 5,10009,mayag,Review,20007,Emotional State,2,22/08/2024 19:35
+ABC_Co,Sprint 5,10009,mayag,Review,20008,Self Awareness,4,22/08/2024 19:35
+ABC_Co,Sprint 5,10009,mayag,Review,20009,Self Regulation,4,22/08/2024 19:35
+ABC_Co,Sprint 5,10009,mayag,Review,20010,Social Awareness,3,22/08/2024 19:35
+ABC_Co,Sprint 5,10009,mayag,Review,20011,Empathy,5,22/08/2024 19:35
+ABC_Co,Sprint 5,10009,mayag,Review,20012,Motivation,3,22/08/2024 19:35
+ABC_Co,Sprint 5,10009,mayag,Stand-Up,20001,Emotional State,4,22/08/2024 19:35
+ABC_Co,Sprint 5,10009,mayag,Stand-Up,20002,Self Awareness,2,22/08/2024 19:35
+ABC_Co,Sprint 5,10009,mayag,Stand-Up,20003,Self Regulation,3,22/08/2024 19:35
+ABC_Co,Sprint 5,10009,mayag,Stand-Up,20004,Social Awareness,5,22/08/2024 19:35
+ABC_Co,Sprint 5,10009,mayag,Stand-Up,20005,Empathy,3,22/08/2024 19:35
+ABC_Co,Sprint 5,10009,mayag,Stand-Up,20006,Motivation,2,22/08/2024 19:35
+ABC_Co,Sprint 5,10009,mayag,Stand-Up,20001,Emotional State,2,23/08/2024 20:30
+ABC_Co,Sprint 5,10009,mayag,Stand-Up,20002,Self Awareness,3,23/08/2024 20:30
+ABC_Co,Sprint 5,10009,mayag,Stand-Up,20003,Self Regulation,3,23/08/2024 20:30
+ABC_Co,Sprint 5,10009,mayag,Stand-Up,20004,Social Awareness,1,23/08/2024 20:30
+ABC_Co,Sprint 5,10009,mayag,Stand-Up,20005,Empathy,4,23/08/2024 20:30
+ABC_Co,Sprint 5,10009,mayag,Stand-Up,20006,Motivation,3,23/08/2024 20:30
+ABC_Co,Sprint 5,10010,rebeccar,Stand-Up,20001,Emotional State,3,24/08/2024 00:19
+ABC_Co,Sprint 5,10010,rebeccar,Stand-Up,20002,Self Awareness,5,24/08/2024 00:19
+ABC_Co,Sprint 5,10010,rebeccar,Stand-Up,20003,Self Regulation,4,24/08/2024 00:19
+ABC_Co,Sprint 5,10010,rebeccar,Stand-Up,20004,Social Awareness,5,24/08/2024 00:19
+ABC_Co,Sprint 5,10010,rebeccar,Stand-Up,20005,Empathy,5,24/08/2024 00:19
+ABC_Co,Sprint 5,10010,rebeccar,Stand-Up,20006,Motivation,4,24/08/2024 00:19
+ABC_Co,Sprint 5,10010,rebeccar,Review,20007,Emotional State,4,24/08/2024 00:20
+ABC_Co,Sprint 5,10010,rebeccar,Review,20008,Self Awareness,5,24/08/2024 00:20
+ABC_Co,Sprint 5,10010,rebeccar,Review,20009,Self Regulation,4,24/08/2024 00:20
+ABC_Co,Sprint 5,10010,rebeccar,Review,20010,Social Awareness,3,24/08/2024 00:20
+ABC_Co,Sprint 5,10010,rebeccar,Review,20011,Empathy,3,24/08/2024 00:20
+ABC_Co,Sprint 5,10010,rebeccar,Review,20012,Motivation,5,24/08/2024 00:20
+ABC_Co,Sprint 5,10001,admin,Stand-Up,20001,Emotional State,1,25/08/2024 15:23
+ABC_Co,Sprint 5,10001,admin,Stand-Up,20002,Self Awareness,1,25/08/2024 15:23
+ABC_Co,Sprint 5,10001,admin,Stand-Up,20003,Self Regulation,1,25/08/2024 15:23
+ABC_Co,Sprint 5,10001,admin,Stand-Up,20004,Social Awareness,1,25/08/2024 15:23
+ABC_Co,Sprint 5,10001,admin,Stand-Up,20005,Empathy,1,25/08/2024 15:23
+ABC_Co,Sprint 5,10001,admin,Stand-Up,20006,Motivation,1,25/08/2024 15:23

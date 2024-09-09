@@ -1,0 +1,11 @@
+﻿company_id,sprint_id,sprint_name,sprint_status,excel_retro_member_for_the_sprint,sprint_scrum_master,sprint_team_leader,sprint_team_members,is_active,sprint_completed_on,sprint_started_on
+ABC_Co,30001,Sprint 1,Completed,mayag,elliotm,rhysl,"[""mayag"", ""rebeccar"", ""ering""]",TRUE,22/08/2023 19:08,20/05/2023 19:08
+ABC_Co,30002,Sprint 2,Completed,ewank,coreya,owenw,"[""ewank"", ""dylanm"", ""danielb""]",TRUE,22/02/2024 19:08,10/01/2024 19:08
+ABC_Co,30003,Sprint 3,Completed,sebastiana,elliotm,daniell,"[""sebastiana"", ""michaela"", ""abbieh""]",TRUE,22/08/2024 19:08,22/03/2024 19:08
+ABC_Co,30004,Sprint 4,Hold,jackc,coreya,alishai,"[""jackc"", ""finleyg"", ""skyet""]",TRUE,,09/10/2023 19:08
+ABC_Co,30005,Sprint 5,Ongoing,rebeccar,elliotm,rhysl,"[""mayag"", ""rebeccar"", ""ering""]",TRUE,,01/06/2024 19:08
+ABC_Co,30006,Sprint 6,Ongoing,finleyg,coreya,alishai,"[""jackc"", ""finleyg"", ""skyet""]",TRUE,,12/04/2024 19:08
+ABC_Co,30007,Sprint 7,Hold,michaela,elliotm,daniell,"[""sebastiana"", ""michaela"", ""abbieh""]",TRUE,,20/01/2024 19:08
+ABC_Co,30008,Sprint 8,Ongoing,skyet,coreya,alishai,"[""jackc"", ""finleyg"", ""skyet""]",TRUE,,01/05/2024 19:08
+ABC_Co,30009,Sprint 9,Ongoing,dylanm,coreya,owenw,"[""ewank"", ""dylanm"", ""danielb""]",TRUE,,08/03/2024 19:08
+ABC_Co,30010,Sprint 10,Planned,abbieh,elliotm,daniell,"[""sebastiana"", ""michaela"", ""abbieh""]",TRUE,,

@@ -1,0 +1,61 @@
+﻿company_id,sprint_id,sprint_name,entered_user_id,entered_user_name,user_role,tracker_id,question_id,question_category,entered_value,finalized_value,entered_on,approval_levels,team_member,team_member_entry_status,team_member_entry_value,team_member_updated_on,team_leader,team_leader_entry_status,team_leader_entry_value,team_leader_updated_on,scrum_master,scrum_master_entry_status,scrum_master_entry_value,scrum_master_updated_on
+ABC_Co,30001,Sprint 1,10009,mayag,Team Member,Retro,27013,Emotional State,1,1.67,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,1,28/08/2024 14:08,elliotm,Approved,3,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10009,mayag,Team Member,Retro,27014,Self Awareness,5,3.67,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,3,28/08/2024 14:08,elliotm,Approved,3,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10009,mayag,Team Member,Retro,27015,Self Regulation,5,3.67,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,1,28/08/2024 14:08,elliotm,Approved,5,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10009,mayag,Team Member,Retro,27016,Social Awareness,1,1.67,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,1,28/08/2024 14:08,elliotm,Approved,3,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10009,mayag,Team Member,Retro,27017,Empathy,2,3.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,5,28/08/2024 14:08,elliotm,Approved,2,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10009,mayag,Team Member,Retro,27018,Motivation,4,4.33,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,4,28/08/2024 14:08,elliotm,Approved,5,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10010,rebeccar,Team Member,Retro,27013,Emotional State,5,4.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,3,28/08/2024 14:08,elliotm,Approved,4,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10010,rebeccar,Team Member,Retro,27014,Self Awareness,2,2.33,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,1,28/08/2024 14:08,elliotm,Approved,4,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10010,rebeccar,Team Member,Retro,27015,Self Regulation,3,2.33,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,3,28/08/2024 14:08,elliotm,Approved,1,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10010,rebeccar,Team Member,Retro,27016,Social Awareness,4,3.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,4,28/08/2024 14:08,elliotm,Approved,1,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10010,rebeccar,Team Member,Retro,27017,Empathy,3,3.67,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,5,28/08/2024 14:08,elliotm,Approved,3,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10010,rebeccar,Team Member,Retro,27018,Motivation,3,1.67,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,1,28/08/2024 14:08,elliotm,Approved,1,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10011,ering,Team Member,Retro,27013,Emotional State,2,2.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,1,28/08/2024 14:08,elliotm,Approved,3,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10011,ering,Team Member,Retro,27014,Self Awareness,2,2.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,3,28/08/2024 14:08,elliotm,Approved,1,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10011,ering,Team Member,Retro,27015,Self Regulation,3,3.67,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,3,28/08/2024 14:08,elliotm,Approved,5,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10011,ering,Team Member,Retro,27016,Social Awareness,2,3.33,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,5,28/08/2024 14:08,elliotm,Approved,3,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10011,ering,Team Member,Retro,27017,Empathy,3,3.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,5,28/08/2024 14:08,elliotm,Approved,1,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10011,ering,Team Member,Retro,27018,Motivation,3,3.33,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,rhysl,Approved,2,28/08/2024 14:08,elliotm,Approved,5,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10005,rhysl,Team Leader,Retro,27013,Emotional State,2,3.00,28/08/2024 14:08,"Team Member, Scrum Master",mayag,Approved,3,28/08/2024 14:08,,,,,elliotm,Approved,4,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10005,rhysl,Team Leader,Retro,27014,Self Awareness,4,4.67,28/08/2024 14:08,"Team Member, Scrum Master",mayag,Approved,5,28/08/2024 14:08,,,,,elliotm,Approved,5,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10005,rhysl,Team Leader,Retro,27015,Self Regulation,3,2.00,28/08/2024 14:08,"Team Member, Scrum Master",mayag,Approved,2,28/08/2024 14:08,,,,,elliotm,Approved,1,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10005,rhysl,Team Leader,Retro,27016,Social Awareness,4,2.67,28/08/2024 14:08,"Team Member, Scrum Master",mayag,Approved,2,28/08/2024 14:08,,,,,elliotm,Approved,2,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10005,rhysl,Team Leader,Retro,27017,Empathy,2,3.67,28/08/2024 14:08,"Team Member, Scrum Master",mayag,Approved,5,28/08/2024 14:08,,,,,elliotm,Approved,4,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10005,rhysl,Team Leader,Retro,27018,Motivation,1,1.33,28/08/2024 14:08,"Team Member, Scrum Master",mayag,Approved,1,28/08/2024 14:08,,,,,elliotm,Approved,2,28/08/2024 14:08
+ABC_Co,30001,Sprint 1,10003,elliotm,Scrum Master,Retro,27013,Emotional State,3,1.67,28/08/2024 14:08,"Team Member, Team Leader",mayag,Approved,1,28/08/2024 14:08,rhysl,Approved,1,28/08/2024 14:08,,,,
+ABC_Co,30001,Sprint 1,10003,elliotm,Scrum Master,Retro,27014,Self Awareness,5,4.00,28/08/2024 14:08,"Team Member, Team Leader",mayag,Approved,4,28/08/2024 14:08,rhysl,Approved,3,28/08/2024 14:08,,,,
+ABC_Co,30001,Sprint 1,10003,elliotm,Scrum Master,Retro,27015,Self Regulation,2,1.67,28/08/2024 14:08,"Team Member, Team Leader",mayag,Approved,1,28/08/2024 14:08,rhysl,Approved,2,28/08/2024 14:08,,,,
+ABC_Co,30001,Sprint 1,10003,elliotm,Scrum Master,Retro,27016,Social Awareness,1,2.33,28/08/2024 14:08,"Team Member, Team Leader",mayag,Approved,2,28/08/2024 14:08,rhysl,Approved,4,28/08/2024 14:08,,,,
+ABC_Co,30001,Sprint 1,10003,elliotm,Scrum Master,Retro,27017,Empathy,3,2.67,28/08/2024 14:08,"Team Member, Team Leader",mayag,Approved,1,28/08/2024 14:08,rhysl,Approved,4,28/08/2024 14:08,,,,
+ABC_Co,30001,Sprint 1,10003,elliotm,Scrum Master,Retro,27018,Motivation,5,4.00,28/08/2024 14:08,"Team Member, Team Leader",mayag,Approved,4,28/08/2024 14:08,rhysl,Approved,3,28/08/2024 14:08,,,,
+ABC_Co,30002,Sprint 2,10012,ewank,Team Member,Retro,27013,Emotional State,4,3.33,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,5,28/08/2024 14:08,coreya,Approved,1,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10012,ewank,Team Member,Retro,27014,Self Awareness,3,2.67,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,3,28/08/2024 14:08,coreya,Approved,2,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10012,ewank,Team Member,Retro,27015,Self Regulation,4,3.33,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,1,28/08/2024 14:08,coreya,Approved,5,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10012,ewank,Team Member,Retro,27016,Social Awareness,5,3.33,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,2,28/08/2024 14:08,coreya,Approved,3,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10012,ewank,Team Member,Retro,27017,Empathy,5,3.33,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,4,28/08/2024 14:08,coreya,Approved,1,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10012,ewank,Team Member,Retro,27018,Motivation,5,4.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,3,28/08/2024 14:08,coreya,Approved,4,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10013,dylanm,Team Member,Retro,27013,Emotional State,5,4.67,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,4,28/08/2024 14:08,coreya,Approved,5,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10013,dylanm,Team Member,Retro,27014,Self Awareness,1,1.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,1,28/08/2024 14:08,coreya,Approved,1,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10013,dylanm,Team Member,Retro,27015,Self Regulation,5,3.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,1,28/08/2024 14:08,coreya,Approved,3,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10013,dylanm,Team Member,Retro,27016,Social Awareness,2,2.33,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,3,28/08/2024 14:08,coreya,Approved,2,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10013,dylanm,Team Member,Retro,27017,Empathy,3,2.67,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,2,28/08/2024 14:08,coreya,Approved,3,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10013,dylanm,Team Member,Retro,27018,Motivation,4,2.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,1,28/08/2024 14:08,coreya,Approved,1,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10014,danielb,Team Member,Retro,27013,Emotional State,3,3.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,5,28/08/2024 14:08,coreya,Approved,1,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10014,danielb,Team Member,Retro,27014,Self Awareness,2,3.33,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,3,28/08/2024 14:08,coreya,Approved,5,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10014,danielb,Team Member,Retro,27015,Self Regulation,1,3.33,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,5,28/08/2024 14:08,coreya,Approved,4,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10014,danielb,Team Member,Retro,27016,Social Awareness,5,3.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,1,28/08/2024 14:08,coreya,Approved,3,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10014,danielb,Team Member,Retro,27017,Empathy,1,2.00,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,2,28/08/2024 14:08,coreya,Approved,3,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10014,danielb,Team Member,Retro,27018,Motivation,5,4.67,28/08/2024 14:08,"Team Leader, Scrum Master",,,,,owenw,Approved,5,28/08/2024 14:08,coreya,Approved,4,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10006,owenw,Team Leader,Retro,27013,Emotional State,5,4.00,28/08/2024 14:08,"Team Member, Scrum Master",ewank,Approved,3,28/08/2024 14:08,,,,,coreya,Approved,4,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10006,owenw,Team Leader,Retro,27014,Self Awareness,4,3.67,28/08/2024 14:08,"Team Member, Scrum Master",ewank,Approved,3,28/08/2024 14:08,,,,,coreya,Approved,4,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10006,owenw,Team Leader,Retro,27015,Self Regulation,1,2.67,28/08/2024 14:08,"Team Member, Scrum Master",ewank,Approved,3,28/08/2024 14:08,,,,,coreya,Approved,4,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10006,owenw,Team Leader,Retro,27016,Social Awareness,3,2.00,28/08/2024 14:08,"Team Member, Scrum Master",ewank,Approved,2,28/08/2024 14:08,,,,,coreya,Approved,1,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10006,owenw,Team Leader,Retro,27017,Empathy,5,4.00,28/08/2024 14:08,"Team Member, Scrum Master",ewank,Approved,2,28/08/2024 14:08,,,,,coreya,Approved,5,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10006,owenw,Team Leader,Retro,27018,Motivation,5,5.00,28/08/2024 14:08,"Team Member, Scrum Master",ewank,Approved,5,28/08/2024 14:08,,,,,coreya,Approved,5,28/08/2024 14:08
+ABC_Co,30002,Sprint 2,10004,coreya,Scrum Master,Retro,27013,Emotional State,1,3.00,28/08/2024 14:08,"Team Member, Team Leader",ewank,Approved,4,28/08/2024 14:08,owenw,Approved,4,28/08/2024 14:08,,,,
+ABC_Co,30002,Sprint 2,10004,coreya,Scrum Master,Retro,27014,Self Awareness,4,3.00,28/08/2024 14:08,"Team Member, Team Leader",ewank,Approved,2,28/08/2024 14:08,owenw,Approved,3,28/08/2024 14:08,,,,
+ABC_Co,30002,Sprint 2,10004,coreya,Scrum Master,Retro,27015,Self Regulation,5,4.33,28/08/2024 14:08,"Team Member, Team Leader",ewank,Approved,3,28/08/2024 14:08,owenw,Approved,5,28/08/2024 14:08,,,,
+ABC_Co,30002,Sprint 2,10004,coreya,Scrum Master,Retro,27016,Social Awareness,3,2.33,28/08/2024 14:08,"Team Member, Team Leader",ewank,Approved,2,28/08/2024 14:08,owenw,Approved,2,28/08/2024 14:08,,,,
+ABC_Co,30002,Sprint 2,10004,coreya,Scrum Master,Retro,27017,Empathy,1,2.00,28/08/2024 14:08,"Team Member, Team Leader",ewank,Approved,3,28/08/2024 14:08,owenw,Approved,2,28/08/2024 14:08,,,,
+ABC_Co,30002,Sprint 2,10004,coreya,Scrum Master,Retro,27018,Motivation,2,2.67,28/08/2024 14:08,"Team Member, Team Leader",ewank,Approved,3,28/08/2024 14:08,owenw,Approved,3,28/08/2024 14:08,,,,
