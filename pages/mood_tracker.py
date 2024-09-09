@@ -91,7 +91,7 @@ if _MOOD_TRACKER == "Stand-Up":
         "_QUESTION_CATEGORY": _ROW["question_category"]})
       # Create a slider for each question
       globals()[_VARIABLE_NAME] = st.slider(_ROW["question"], value=1, min_value=_ROW["min_value"], max_value=_ROW["max_value"])
-  
+     
     # Save data when the form is submitted
     if st.form_submit_button("Save Data"):
       if _SPRINT is not None:

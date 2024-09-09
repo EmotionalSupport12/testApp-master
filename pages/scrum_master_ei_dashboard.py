@@ -100,7 +100,7 @@ with _TAB_1_COLUMN5:
     color="user_name", barmode="group")
   _DASHBOARD_FIGURE1.update_layout(bargap=0.2, xaxis_title="Emotional Category", yaxis_title="Emotion Level", xaxis_tickangle=45, bargroupgap=0.1)
   st.plotly_chart(_DASHBOARD_FIGURE1)
-
+  
 with _TAB_2_COLUMN6:
   st.markdown(f"##### Overall Employee Emotion Average")
   #Process Dataset
